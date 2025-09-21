@@ -82,7 +82,7 @@ Welcome to my GitHub! I'm passionate about building web apps, optimizing product
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gshibug&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=gshibug&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=gshibug&theme=transparent&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gshibug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
